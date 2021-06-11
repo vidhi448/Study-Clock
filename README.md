@@ -1,6 +1,9 @@
 # Study-Clock
 About: Study clock is an Interective Prototype System designed using arduino/arduino processing. 
 
+Website link: https://dsehrawat981.wixsite.com/studyclock
+Video link: https://youtu.be/OIL5xghvuxY
+
 AIM: It is designed to observe and measure the accurate time indulged in studying and improve the level of performance. 
 
 Features: 
